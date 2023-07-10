@@ -1,0 +1,19 @@
+{
+  "name": "employee_mgmt_react_CRUD_data",
+  "homepage": "https://ultraammar.github.io/employee_mgmt_react_CRUD_data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "json-server --port 8000 --watch db.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
+}
